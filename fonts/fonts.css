@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'CharterITCBlackRegular';
+    src: url('charteritcblack.eot');
+    src: url('charteritcblack.eot') format('embedded-opentype'),
+         url('charteritcblack.woff') format('woff'),
+         url('charteritcblack.ttf') format('truetype'),
+         url('charteritcblack.svg#CharterITCBlackRegular') format('svg');
+}
+@font-face {
+    font-family: 'PFDinTextCondProMedium';
+    src: url('pfdintextcondpro-medium.eot');
+    src: url('pfdintextcondpro-medium.eot') format('embedded-opentype'),
+         url('pfdintextcondpro-medium.woff') format('woff'),
+         url('pfdintextcondpro-medium.ttf') format('truetype'),
+         url('pfdintextcondpro-medium.svg#PFDinTextCondProMedium') format('svg');
+}
+@font-face {
+    font-family: 'PFDinTextCondPro';
+    src: url('pfdintextcondpro-bold.eot');
+    src: url('pfdintextcondpro-bold.eot') format('embedded-opentype'),
+         url('pfdintextcondpro-bold.woff') format('woff'),
+         url('pfdintextcondpro-bold.ttf') format('truetype'),
+         url('pfdintextcondpro-bold.svg#PFDinTextCondProBold') format('svg');
+	font-weight:bold;
+}
